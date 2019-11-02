@@ -1,3 +1,7 @@
+
+<img width="1259" alt="summer" src="https://user-images.githubusercontent.com/15104527/68068709-f6997d80-fdab-11e9-9af6-9c600d45f996.png">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
